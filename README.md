@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">Olá!!! Este é o meu GitHub</h2>
+<h2 align="center">Olá!!! Eu sou Andressa Ataides e este é meu GitHub</h2>
 
 ####
 
@@ -53,8 +53,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dessa28882847/Dessa28882847/output/snake.svg" alt="Snake animation" />
-
-###
