@@ -53,3 +53,8 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Dessa28882847/Dessa28882847/output/snake.svg" alt="Snake animation" />
+
+###
