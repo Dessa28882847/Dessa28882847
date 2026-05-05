@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>💻 - Cursando Desenvolvimento de sistemas<br><br>💼 - Procuro estágio para aperfeiçoar meus conhecimentos</p>
+<p align="left">Sobre mim:<br><br>💻 - Formada em Desenvolvimento de sistemas<br><br>💼 - Procuro oportunidade na área para aperfeiçoar meus conhecimentos</p>
 
 ###
 
